@@ -1,2 +1,2 @@
-# DSA-24Fal
+# DSA-24Fall
 A repository for codes of DSA-24Fall
